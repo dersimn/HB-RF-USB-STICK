@@ -1,4 +1,5 @@
-Smaller version of [HB-RF-USB](https://github.com/alexreinert/PCB). For the most part electrically identical.
+Smaller version of [HB-RF-USB](https://github.com/alexreinert/PCB). For the most part electrically identical.  
+Alternative version for the same purpose from [stan23](https://github.com/stan23/myPCBs/tree/master/HB-MOD-UART-USB).
 
 ## Required Parts
 
