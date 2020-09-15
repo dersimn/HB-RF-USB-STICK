@@ -1,5 +1,5 @@
 Smaller version of [HB-RF-USB](https://github.com/alexreinert/PCB). Electrically identical.  
-Another project [stan23](https://github.com/stan23/myPCBs/tree/master/HB-MOD-UART-USB).
+Can be used to emulate a Homematic CCU with [RaspberryMatic](https://github.com/jens-maus/RaspberryMatic) in a virtual machine on x86 architecture.
 
 [![](docs/img/thumbs/top_perspective_500.jpeg)](![](docs/img/top_perspective.jpeg))
 [![](docs/img/thumbs/bottom_perspective_500.jpeg)](![](docs/img/bottom_perspective.jpeg))
