@@ -38,6 +38,15 @@ List:
     - 1x IRLML6402: [Reichelt](https://www.reichelt.de/mosfet-p-ch-20v-3-7a-1-3w-sot-23-irlml-6402-p108743.html?&nbc=1)
     - 1x A-USB A-LP-SMT-C: [Reichelt](https://www.reichelt.de/usb-einbaustecker-serie-a-gerade-180-vers-usb-agf-p52008.html?&nbc=1), [Conrad](https://www.conrad.de/de/p/usb-stecker-ultra-flach-stecker-einbau-a-usb-a-lp-smt-c-usb-a-smt-assmann-wsw-inhalt-1-st-741461.html)
 
+## Order PCB
+
+Use the provided Gerber files under Releases in the GitHub repository or generate your own CAM using Autodesk EAGLE.
+
+I ordered the PCBs from [JLCPCB](https://jlcpcb.com). If you use their service you have to specify dimensions `33 x 16 mm` in the order mask and also add the Remark
+
+> 2x Slotted Holes
+
+
 ## Credits
 
 - [@alexreinert/HB-RF-USB](https://github.com/alexreinert/PCB): Original idea.
