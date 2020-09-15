@@ -9295,6 +9295,10 @@ SMD chip inductor</description>
 <pinref part="IC1" gate="1" pin="GND@2"/>
 <wire x1="167.64" y1="63.5" x2="170.18" y2="63.5" width="0.1524" layer="91"/>
 <junction x="170.18" y="63.5"/>
+<pinref part="IC1" gate="1" pin="TEST"/>
+<wire x1="167.64" y1="73.66" x2="170.18" y2="73.66" width="0.1524" layer="91"/>
+<wire x1="170.18" y1="73.66" x2="170.18" y2="68.58" width="0.1524" layer="91"/>
+<junction x="170.18" y="68.58"/>
 </segment>
 <segment>
 <pinref part="IC1" gate="1" pin="GND@A"/>
