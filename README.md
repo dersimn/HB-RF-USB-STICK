@@ -1,13 +1,14 @@
 Smaller version of [HB-RF-USB](https://github.com/alexreinert/PCB). Electrically identical.  
 Can be used to emulate a Homematic CCU with [RaspberryMatic](https://github.com/jens-maus/RaspberryMatic) in a virtual machine on x86 architecture.
 
-[![](docs/img/thumbs/top_perspective_500.jpeg)](![](docs/img/top_perspective.jpeg))
-[![](docs/img/thumbs/bottom_perspective_500.jpeg)](![](docs/img/bottom_perspective.jpeg))
+[![](docs/img/thumbs/top_perspective_400.jpeg)](![](docs/img/top_perspective.jpeg))
+[![](docs/img/thumbs/bottom_perspective_400.jpeg)](![](docs/img/bottom_perspective.jpeg))
 
 [![](docs/img/thumbs/top_200.jpeg)](![](docs/img/top.jpeg))
 [![](docs/img/thumbs/bottom_200.jpeg)](![](docs/img/bottom.jpeg))
 
 The HM-MOD-RPI-PCB kit comes with pre-soldered pins on the HM-MOD-UART-AW-SH-2. You have to desolder them first:
+
 [![](docs/img/thumbs/HM-MOD-UART-AW-SH-2_top_200.jpeg)](![](docs/img/HM-MOD-UART-AW-SH-2_bottom.jpeg))
 [![](docs/img/thumbs/HM-MOD-UART-AW-SH-2_bottom_200.jpeg)](![](docs/img/HM-MOD-UART-AW-SH-2_top.jpeg))  
 [![](docs/img/thumbs/HM-MOD-RPI-PCB_bottom_200.jpeg)](![](docs/img/HM-MOD-RPI-PCB_bottom.jpeg))
