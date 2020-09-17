@@ -47,6 +47,17 @@ I ordered the PCBs from [JLCPCB](https://jlcpcb.com). If you use their service y
 
 > 2x Slotted Holes
 
+## Flash FTDI
+
+Get FT_Prog from [here](https://www.ftdichip.com/Support/Utilities.htm#FT_PROG). Use [`FT232R_Template.xml`](contrib/FT232R_Template.xml) for configuration:
+
+[![](docs/flash/thumbs/step_1_200.png)](docs/flash/step_1.png)
+[![](docs/flash/thumbs/step_2_200.png)](docs/flash/step_2.png)
+[![](docs/flash/thumbs/step_3_200.png)](docs/flash/step_3.png)
+[![](docs/flash/thumbs/step_4_200.png)](docs/flash/step_4.png)
+[![](docs/flash/thumbs/step_5_200.png)](docs/flash/step_5.png)
+[![](docs/flash/thumbs/step_6_200.png)](docs/flash/step_6.png)
+[![](docs/flash/thumbs/step_7_200.png)](docs/flash/step_7.png)
 
 ## Credits
 
